@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+div
+{
+  background-color:skyblue;
+}
+body{
+  background-color:orange;
+}
+
